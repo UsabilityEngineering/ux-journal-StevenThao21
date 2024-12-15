@@ -8,7 +8,7 @@ One of the most notable issues was the orientation of the ports. All the ports, 
 The step-by-step setup process: 
 1. Connect the HDMI cable to the HDMI port
 2. Plug the power cable into the power port
-3. Ensure that power cable is connected to an outlet
+3. Ensure that the power cable is connected to an outlet
 
 ![IMG_9356](https://github.com/user-attachments/assets/3099ff3a-7e21-4557-8826-2dbc9b5a49a7)
 
@@ -16,4 +16,4 @@ The stand itself was another drawback. While it was easy enough to assemble, the
 
 ![IMG_9357](https://github.com/user-attachments/assets/57fc798f-9dfd-4b50-8431-a3e9773a31e9)
 
-Overall, while the Pixio PX222 delivers where it counts regarding display quality, the poorly designed stand and downward-facing ports create significant usability challenges. For users considering this monitor, I would highly recommend investing in a third-party stand or wall mount to make the experience more comfortable and practical. Additionally, investing in some** 90-degree port adapter**s can help prevent cable bending and damage. 
+Overall, while the Pixio PX222 delivers where it counts regarding display quality, the poorly designed stand and downward-facing ports create significant usability challenges. For users considering this monitor, I would highly recommend investing in a third-party stand or wall mount to make the experience more comfortable and practical. Additionally, investing in some **90-degree port adapter**s can help prevent cable bending and damage. 
